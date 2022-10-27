@@ -108,6 +108,10 @@ a:hover{
   margin-top: 60px;
 }
 
+.stata-text{
+  width: 120%;
+}
+
 .R {
   width: 25%;
   float: right;
